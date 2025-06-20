@@ -1,7 +1,7 @@
 streamlit==1.45.1
 tensorflow==2.19.0
-numpy>=1.24.0,<2.0.0
+numpy>=1.24.0,<2.0.0  # Version compatible avec TensorFlow 2.19
 pandas==2.2.3
 scikit-learn==1.6.1
-scipy>=1.10.0
+scipy>=1.10.0  # Version plus récente
 matplotlib==3.10.3
