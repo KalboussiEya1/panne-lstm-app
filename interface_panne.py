@@ -121,3 +121,4 @@ if input_data is not None and data_entered(input_data, features):
 else:
     st.write("**Probabilité de panne :** _--_")
     st.info("Commencez la saisie ou chargez un fichier CSV pour voir la prédiction.")
+# Cache refresh 
